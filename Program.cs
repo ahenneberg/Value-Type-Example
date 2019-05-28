@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pointer_Example
+namespace Value_Type_Example
 {
     class Program
     {
@@ -35,9 +35,4 @@ namespace Pointer_Example
  *                 |---------------|    |---------------|
  *                 |       0       |    |       0       |
  *                 |_______________|    |_______________|
-     
-     
-     
-     
-     
-     */
+ */
