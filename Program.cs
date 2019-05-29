@@ -23,6 +23,8 @@ namespace Value_Type_Example
 
             Console.WriteLine(p1.X);    // 9
             Console.WriteLine(p2.X);    // 7
+            // Value types can not ordinarily have a null value.
+            // Point p = null would cause a compile-time error
         }
     }
     public struct Point { public int X, Y; }
